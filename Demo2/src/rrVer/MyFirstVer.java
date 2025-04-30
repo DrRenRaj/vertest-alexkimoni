@@ -8,6 +8,7 @@ public class MyFirstVer {
 		int randomVar;
 		
 		randomVar = randomVar ^ 2;
+		randomVar = randomVar % 2;
 
 	}
 
